@@ -10,7 +10,7 @@
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей")
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
-14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор")
+14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") -[Макет](https://www.figma.com/file/2XIKFGJIvNj6Lsmgk9sWgp/Gravity?node-id=0%3A1)
 15. Николаенко Владимир Андреевич
 16. Ниязов Роберт Рустамович
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
