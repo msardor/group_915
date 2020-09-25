@@ -6,7 +6,7 @@
 6. [Грибкова Анастасия](https://github.com/AnastyasiaGri2022 "Грибкова Анастасия")
 7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита")
 8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел")
-9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей")
+9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") -[Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей")
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
