@@ -18,7 +18,7 @@
 19. Сакур Тарас Александрович
 20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан")
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет")
-22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета")
+22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета") - [Макет](https://www.figma.com/file/LBTG9XkicpIWdNKgoQXGFbuj/Templates-%239.-More-on-Figma.info?node-id=0%3A1 "Макет")
 23. Тихонов Александр Витальевич
 24. Шамигулов Максим Артурович
 25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
