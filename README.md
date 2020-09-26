@@ -14,7 +14,7 @@
 15. Николаенко Владимир Андреевич
 16. Ниязов Роберт Рустамович
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
-18. Романова Софья Александровна
+18. [Романова Софья](https://github.com/RomanovaSophia "Романова Софья") - [Макет](https://www.figma.com/file/ZI6u9GhiZyOENlbwqjHfuQ/traffico-landing-page-for-figma?node-id=0%3A1 "Макет") 
 19. Сакур Тарас Александрович
 20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан")
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет")
