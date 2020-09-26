@@ -11,7 +11,7 @@
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей")
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
 14. Мирганов Сардор Хабибуллоевич
-15. Николаенко Владимир Андреевич
+15. [Николаенко Владимир Андреевич](https://github.com/shizik9) - [Макет](https://www.figma.com/file/tFSM7FpVXuCu6YbKoTvRuK/woo-landing-page-for-figma?node-id=0%3A1 "Макет")
 16. Ниязов Роберт Рустамович
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
 18. [Романова Софья](https://github.com/RomanovaSophia "Романова Софья") - [Макет](https://www.figma.com/file/ZI6u9GhiZyOENlbwqjHfuQ/traffico-landing-page-for-figma?node-id=0%3A1 "Макет") 
@@ -23,3 +23,4 @@
 24. Шамигулов Максим Артурович
 25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
 26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль")
+
