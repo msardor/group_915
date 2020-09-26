@@ -15,7 +15,7 @@
 16. Ниязов Роберт Рустамович
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
 18. Романова Софья Александровна
-19. Сакур Тарас Александрович
+19. [Сакур Тарас Александрович](https://github.com/SakurGun "Сакур Тарас") - [Макет](https://www.figma.com/file/X8I0G7PzIREd6CkieTO2P0/tour-and-travel-website-for-figma?node-id=0%3A1 "Макет")
 20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан")
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет")
 22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета") - [Макет](https://www.figma.com/file/LBTG9XkicpIWdNKgoQXGFbuj/Templates-%239.-More-on-Figma.info?node-id=0%3A1 "Макет")
