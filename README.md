@@ -6,19 +6,21 @@
 6. [Грибкова Анастасия](https://github.com/AnastyasiaGri2022 "Грибкова Анастасия")
 7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита")
 8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел")
-9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей")
+9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") -[Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей")
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
 14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") -[Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1)
+15. [Николаенко Владимир Андреевич](https://github.com/shizik9) - [Макет](https://www.figma.com/file/tFSM7FpVXuCu6YbKoTvRuK/woo-landing-page-for-figma?node-id=0%3A1 "Макет")
 16. Ниязов Роберт Рустамович
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
-18. Романова Софья Александровна
-19. Сакур Тарас Александрович
+18. [Романова Софья](https://github.com/RomanovaSophia "Романова Софья") - [Макет](https://www.figma.com/file/ZI6u9GhiZyOENlbwqjHfuQ/traffico-landing-page-for-figma?node-id=0%3A1 "Макет")
+19. [Сакур Тарас Александрович](https://github.com/SakurGun "Сакур Тарас") - [Макет](https://www.figma.com/file/X8I0G7PzIREd6CkieTO2P0/tour-and-travel-website-for-figma?node-id=0%3A1 "Макет")
 20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан")
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет")
-22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета")
+22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета") - [Макет](https://www.figma.com/file/LBTG9XkicpIWdNKgoQXGFbuj/Templates-%239.-More-on-Figma.info?node-id=0%3A1 "Макет")
 23. Тихонов Александр Витальевич
 24. Шамигулов Максим Артурович
 25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
 26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль")
+
